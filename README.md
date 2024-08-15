@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/bb398764-cd18-45d9-bee6-134640faa584
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weatherapp.git
+   git clone https://github.com/aaranayaadi/WeatherApp.git
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
 
