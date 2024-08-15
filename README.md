@@ -7,8 +7,8 @@ WeatherApp is a beautifully designed Android application that provides real-time
 - **Real-Time Weather Information**: Get up-to-the-minute weather updates for your selected city, including detailed 3-hour forecasts.
 - **City Search**: Easily search for and select your city to receive accurate weather data.
 - **Beautiful UI**: The app includes meticulously designed drawable files to enhance the visual appeal.
-- **Live Rain Animation**: Experience a dynamic rain animation using the [WeatherView](https://github.com/your-link-to-weatherview) dependency, bringing the weather to life on your screen.
-- **Custom Blur Effect**: The weather information box features a custom blurring effect implemented with the [BlurView](https://github.com/your-link-to-blurview) library, adding a sophisticated touch to the UI.
+- **Live Rain Animation**: Experience a dynamic rain animation using the [WeatherView](https://github.com/MatteoBattilana/WeatherView) dependency, bringing the weather to life on your screen.
+- **Custom Blur Effect**: The weather information box features a custom blurring effect implemented with the [BlurView](https://github.com/Dimezis/BlurView) library, adding a sophisticated touch to the UI.
 - **Image Loading with Glide**: Smooth and efficient image loading with [Glide](https://github.com/bumptech/glide) to ensure that weather icons and backgrounds are always crisp and up-to-date.
 
 ## Video
